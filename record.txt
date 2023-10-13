@@ -1,0 +1,160 @@
+Start time is: 2023-10-13 00:07:25.059057
+The initial generation's genes are :
+{'nb_node': [122, 54, 16], 'lr': 0.0038963451592056216, 'batch_size': 487, 'kernels': [5, 5], 'fitness': 0.0}
+{'nb_node': [95, 33, 51], 'lr': 0.003973547902110538, 'batch_size': 411, 'kernels': [5, 5], 'fitness': 0.0}
+{'nb_node': [104, 20, 22], 'lr': 0.004459833010147152, 'batch_size': 75, 'kernels': [3, 5], 'fitness': 0.0}
+{'nb_node': [63, 104, 57], 'lr': 0.002716190376313107, 'batch_size': 167, 'kernels': [5, 5], 'fitness': 0.0}
+{'nb_node': [27, 119, 112], 'lr': 0.002725097540817139, 'batch_size': 413, 'kernels': [3, 5], 'fitness': 0.0}
+{'nb_node': [127, 39, 17], 'lr': 0.002716642842303696, 'batch_size': 233, 'kernels': [5, 5], 'fitness': 0.0}
+{'nb_node': [108, 31, 92], 'lr': 0.00250555589304679, 'batch_size': 440, 'kernels': [3, 5], 'fitness': 0.0}
+{'nb_node': [114, 54, 105], 'lr': 0.002781205485316343, 'batch_size': 387, 'kernels': [3, 5], 'fitness': 0.0}
+{'nb_node': [115, 115, 115], 'lr': 0.003587519655934929, 'batch_size': 175, 'kernels': [5, 3], 'fitness': 0.0}
+{'nb_node': [101, 91, 95], 'lr': 0.004506405455759165, 'batch_size': 214, 'kernels': [3, 5], 'fitness': 0.0}
+{'nb_node': [124, 100, 16], 'lr': 0.0029657277401848067, 'batch_size': 406, 'kernels': [3, 3], 'fitness': 0.0}
+{'nb_node': [36, 72, 63], 'lr': 0.0044859556506684824, 'batch_size': 383, 'kernels': [3, 5], 'fitness': 0.0}
+{'nb_node': [87, 76, 67], 'lr': 0.0019807160223583005, 'batch_size': 94, 'kernels': [5, 5], 'fitness': 0.0}
+{'nb_node': [106, 100, 47], 'lr': 0.004668822514905665, 'batch_size': 179, 'kernels': [5, 5], 'fitness': 0.0}
+{'nb_node': [24, 89, 79], 'lr': 0.0013903162810144254, 'batch_size': 406, 'kernels': [5, 3], 'fitness': 0.0}
+{'nb_node': [83, 80, 115], 'lr': 0.0025887327474301246, 'batch_size': 390, 'kernels': [3, 3], 'fitness': 0.0}
+{'nb_node': [35, 24, 90], 'lr': 0.002408439811365003, 'batch_size': 386, 'kernels': [5, 5], 'fitness': 0.0}
+{'nb_node': [77, 127, 120], 'lr': 0.0019023257044953183, 'batch_size': 180, 'kernels': [5, 3], 'fitness': 0.0}
+{'nb_node': [51, 126, 84], 'lr': 0.0018461692321459161, 'batch_size': 196, 'kernels': [5, 3], 'fitness': 0.0}
+{'nb_node': [104, 65, 31], 'lr': 0.002172538769581676, 'batch_size': 478, 'kernels': [5, 5], 'fitness': 0.0}
+generation:1, individual:1, fitness:0.6734
+generation:1, individual:2, fitness:0.6484
+generation:1, individual:3, fitness:0.6289
+generation:1, individual:4, fitness:0.6187
+generation:1, individual:5, fitness:0.5604
+generation:1, individual:6, fitness:0.6734
+generation:1, individual:7, fitness:0.5604
+generation:1, individual:8, fitness:0.5604
+generation:1, individual:9, fitness:0.6484
+generation:1, individual:10, fitness:0.6484
+generation:1, individual:11, fitness:0.6187
+generation:1, individual:12, fitness:0.6187
+generation:1, individual:13, fitness:0.6289
+generation:1, individual:14, fitness:0.6484
+generation:1, individual:15, fitness:0.6187
+generation:1, individual:16, fitness:0.6484
+generation:1, individual:17, fitness:0.6289
+generation:1, individual:18, fitness:0.6187
+generation:1, individual:19, fitness:0.6484
+generation:1, individual:20, fitness:0.5604
+The best individual is:
+{'nb_node': [104, 20, 22], 'lr': 0.004459833010147152, 'batch_size': 75, 'kernels': [3, 5], 'fitness': 0.6734}
+End time is: 2023-10-13 02:11:49.886119
+generation:2, individual:1, fitness:0.7618
+generation:2, individual:2, fitness:0.6439
+generation:2, individual:3, fitness:0.6356
+generation:2, individual:4, fitness:0.5809
+generation:2, individual:5, fitness:0.5711
+generation:2, individual:6, fitness:0.5809
+generation:2, individual:7, fitness:0.5809
+generation:2, individual:8, fitness:0.5711
+generation:2, individual:9, fitness:0.5809
+generation:2, individual:10, fitness:0.5711
+generation:2, individual:11, fitness:0.5809
+generation:2, individual:12, fitness:0.5711
+generation:2, individual:13, fitness:0.7618
+generation:2, individual:14, fitness:0.5809
+generation:2, individual:15, fitness:0.7618
+generation:2, individual:16, fitness:0.6356
+generation:2, individual:17, fitness:0.7618
+generation:2, individual:18, fitness:0.6356
+generation:2, individual:19, fitness:0.6356
+generation:2, individual:20, fitness:0.6356
+The best individual is:
+{'nb_node': [104, 20, 22], 'lr': 0.004459833010147152, 'batch_size': 406, 'kernels': [3, 5], 'fitness': 0.7618}
+End time is: 2023-10-13 03:53:12.121739
+generation:3, individual:1, fitness:0.7789
+generation:3, individual:2, fitness:0.7308
+generation:3, individual:3, fitness:0.7235
+generation:3, individual:4, fitness:0.7061
+generation:3, individual:5, fitness:0.6794
+generation:3, individual:6, fitness:0.6794
+generation:3, individual:7, fitness:0.7308
+generation:3, individual:8, fitness:0.7235
+generation:3, individual:9, fitness:0.7235
+generation:3, individual:10, fitness:0.6794
+generation:3, individual:11, fitness:0.7235
+generation:3, individual:12, fitness:0.7308
+generation:3, individual:13, fitness:0.7789
+generation:3, individual:14, fitness:0.7308
+generation:3, individual:15, fitness:0.7789
+generation:3, individual:16, fitness:0.6794
+generation:3, individual:17, fitness:0.7235
+generation:3, individual:18, fitness:0.6794
+generation:3, individual:19, fitness:0.6794
+generation:3, individual:20, fitness:0.7235
+The best individual is:
+{'nb_node': [104, 20, 22], 'lr': 0.002408439811365003, 'batch_size': 386, 'kernels': [3, 5], 'fitness': 0.7789}
+End time is: 2023-10-13 05:42:26.150357
+generation:4, individual:1, fitness:0.7692
+generation:4, individual:2, fitness:0.7614
+generation:4, individual:3, fitness:0.7599
+generation:4, individual:4, fitness:0.7274
+generation:4, individual:5, fitness:0.7005
+generation:4, individual:6, fitness:0.7005
+generation:4, individual:7, fitness:0.7599
+generation:4, individual:8, fitness:0.7614
+generation:4, individual:9, fitness:0.7005
+generation:4, individual:10, fitness:0.7599
+generation:4, individual:11, fitness:0.7005
+generation:4, individual:12, fitness:0.7614
+generation:4, individual:13, fitness:0.7274
+generation:4, individual:14, fitness:0.7692
+generation:4, individual:15, fitness:0.7692
+generation:4, individual:16, fitness:0.7274
+generation:4, individual:17, fitness:0.7005
+generation:4, individual:18, fitness:0.7599
+generation:4, individual:19, fitness:0.7274
+generation:4, individual:20, fitness:0.7692
+The best individual is:
+{'nb_node': [104, 20, 22], 'lr': 0.0031393355473807124, 'batch_size': 406, 'kernels': [5, 5], 'fitness': 0.7692}
+End time is: 2023-10-13 07:24:58.023136
+generation:5, individual:1, fitness:0.7887
+generation:5, individual:2, fitness:0.77
+generation:5, individual:3, fitness:0.746
+generation:5, individual:4, fitness:0.7257
+generation:5, individual:5, fitness:0.6944
+generation:5, individual:6, fitness:0.77
+generation:5, individual:7, fitness:0.77
+generation:5, individual:8, fitness:0.77
+generation:5, individual:9, fitness:0.7257
+generation:5, individual:10, fitness:0.746
+generation:5, individual:11, fitness:0.7257
+generation:5, individual:12, fitness:0.6944
+generation:5, individual:13, fitness:0.7887
+generation:5, individual:14, fitness:0.746
+generation:5, individual:15, fitness:0.6944
+generation:5, individual:16, fitness:0.7887
+generation:5, individual:17, fitness:0.7887
+generation:5, individual:18, fitness:0.6944
+generation:5, individual:19, fitness:0.6944
+generation:5, individual:20, fitness:0.7887
+The best individual is:
+{'nb_node': [104, 20, 22], 'lr': 0.00171648056412868, 'batch_size': 75, 'kernels': [3, 5], 'fitness': 0.7887}
+End time is: 2023-10-13 09:35:48.441624
+generation:6, individual:1, fitness:0.7707
+generation:6, individual:2, fitness:0.7514
+generation:6, individual:3, fitness:0.7085
+generation:6, individual:4, fitness:0.7083
+generation:6, individual:5, fitness:0.7012
+generation:6, individual:6, fitness:0.7083
+generation:6, individual:7, fitness:0.7514
+generation:6, individual:8, fitness:0.7012
+generation:6, individual:9, fitness:0.7083
+generation:6, individual:10, fitness:0.7085
+generation:6, individual:11, fitness:0.7012
+generation:6, individual:12, fitness:0.7012
+generation:6, individual:13, fitness:0.7707
+generation:6, individual:14, fitness:0.7083
+generation:6, individual:15, fitness:0.7514
+generation:6, individual:16, fitness:0.7085
+generation:6, individual:17, fitness:0.7514
+generation:6, individual:18, fitness:0.7514
+generation:6, individual:19, fitness:0.7514
+generation:6, individual:20, fitness:0.7514
+The best individual is:
+{'nb_node': [104, 20, 22], 'lr': 0.002408439811365003, 'batch_size': 492, 'kernels': [5, 5], 'fitness': 0.7707}
+End time is: 2023-10-13 11:37:00.848161
